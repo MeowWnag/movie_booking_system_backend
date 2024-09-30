@@ -59,3 +59,6 @@ docker-compose up --build
 ├── init.sql # 數據庫初始化腳本  
 ├── requirements.txt # Python 依賴  
 └── run.py # 應用程序入口  
+## 使用Postman做測試
+![image](https://github.com/user-attachments/assets/df5759aa-c343-40ae-98f1-f5de2dc9161a)
+
