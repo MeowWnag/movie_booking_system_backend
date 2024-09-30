@@ -25,10 +25,15 @@
 - 確保已安裝 [Docker](https://www.docker.com/get-started) 和 [Docker Compose](https://docs.docker.com/compose/).
 
 ### 克隆項目
+ *``` *
 git clone https://github.com/yourusername/movie-booking-system.git
+cd movie-booking-system
+ *``` *
 
 ### 使用 Docker Compose 啟動應用
+ *``` *
 docker-compose up --build
+ *``` *
 
 這將構建 Docker 映像並啟動應用程序和數據庫服務。
 
