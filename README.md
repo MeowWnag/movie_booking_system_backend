@@ -46,16 +46,16 @@ docker-compose up --build
 
 ## 文件結構
 │
-├── app/ # 應用程序代碼
-│ ├── init.py
-│ ├── config.py
-│ ├── models.py
-│ ├── routes/ # 路由定義
-│ ├── services/ # 服務層
-│ └── utils.py # 工具函數
+├── app/ # 應用程序代碼   
+│ ├── init.py  
+│ ├── config.py  
+│ ├── models.py  
+│ ├── routes/ # 路由定義  
+│ ├── services/ # 服務層  
+│ └── utils.py # 工具函數  
 │
-├── Dockerfile # Docker 配置文件
-├── docker-compose.yml # Docker Compose 配置文件
-├── init.sql # 數據庫初始化腳本
-├── requirements.txt # Python 依賴
-└── run.py # 應用程序入口
+├── Dockerfile # Docker 配置文件  
+├── docker-compose.yml # Docker Compose 配置文件  
+├── init.sql # 數據庫初始化腳本  
+├── requirements.txt # Python 依賴  
+└── run.py # 應用程序入口  
